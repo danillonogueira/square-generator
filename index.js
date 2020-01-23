@@ -48,7 +48,7 @@ class Square {
   // GETTERS
   getCoordinates() {
     return this._coordinates;
-  }s
+  }
 }
 
 // SETUP
